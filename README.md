@@ -35,8 +35,9 @@ While our journey has been impressive so far, there's a world of exciting opport
 We're thrilled to have you as part of the [Blackwire](https://www.blackwire.online/) community as we embark on this exhilarating venture. As we approach the culmination of the project, your involvement and collaboration remain pivotal. Together, we're reshaping the landscape of high-speed, secure networking.
 
 ### Sponsorship
-We appreciate if you would like to sponsor our development efforts:
 
-- Address for Bitcoin (BTC):  `bc1qq7rmpvexkdhh9key305m8glpl87wu8nmsckgwu`
-- Address for Ethereum (ETH): `0x6bC559318E10BA86AA0fB24aEA9A28Ef6f4bD61f`
-- Address for Monero (XMR): `45gXV3HNrmQ17mBbzhuX5xbZ4swhX2hwjewnJeeuNvwLCgGyfDZacf2LfT1Z7MDxToHNsf9vrM2TT671WmLqetzm8FoXzjc`
+Support the project:
+
+- Via Bitcoin (BTC):  `bc1qq7rmpvexkdhh9key305m8glpl87wu8nmsckgwu`
+- Via Ethereum (ETH): `0x6bC559318E10BA86AA0fB24aEA9A28Ef6f4bD61f`
+- Privately via Monero (XMR): `45gXV3HNrmQ17mBbzhuX5xbZ4swhX2hwjewnJeeuNvwLCgGyfDZacf2LfT1Z7MDxToHNsf9vrM2TT671WmLqetzm8FoXzjc`
